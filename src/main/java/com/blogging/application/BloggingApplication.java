@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * My <b>class</b>.
  *
- * @see SpringBootApplication
+ * @see SpringBootApplication graphQl-demo
  */
 @SpringBootApplication
 public class BloggingApplication {
